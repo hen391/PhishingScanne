@@ -2,7 +2,6 @@
 **Manual QA Home Task – Explainable Detection MVP**
 
 A lightweight, explainable phishing detection system.  
-Built for **manual QA review**, **local demo**, and **clear rule-based validation**.
 
 ---
 
@@ -35,7 +34,6 @@ addOn/
 
 - Java 17
 - Maven 3.x
-- Windows (for demo script) / curl for manual tests
 
 ---
 
@@ -45,14 +43,6 @@ addOn/
 cd backend
 mvn spring-boot:run
 ```
----
-
-## ⚙️ Requirements
-
-- Java 17
-- Maven 3.x
-- Windows (for demo script) / curl for manual tests
-
 ---
 
 ## 🚀 Running the Backend
