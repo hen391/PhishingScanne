@@ -1,0 +1,23 @@
+{
+  "timeZone": "Asia/Jerusalem",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.execute",
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "gmail": {
+    "name": "PhishingScanner",
+    "logoUrl": "https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png",
+    "contextualTriggers": [
+      {
+        "unconditional": {},
+        "onTriggerFunction": "buildAddOn"
+      }
+    ],
+    "primaryColor": "#E7D7FF",
+    "secondaryColor": "#D7F1FF"
+  },
+  "runtimeVersion": "V8"
+}

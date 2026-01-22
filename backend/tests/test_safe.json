@@ -1,0 +1,7 @@
+{
+  "from": "newsletter@legit.com",
+  "replyTo": "newsletter@legit.com",
+  "subject": "Monthly update",
+  "bodyText": "Hi! Here is our monthly update. Visit https://legit.com/blog",
+  "bodyHtml": "<p>Thanks for reading</p>"
+}

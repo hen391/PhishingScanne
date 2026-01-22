@@ -1,0 +1,7 @@
+{
+  "from": "Support <support@company.com>",
+  "replyTo": "support@company.com",
+  "subject": "Please verify your details",
+  "bodyText": "Verify your details here: https://tinyurl.com/abc123",
+  "bodyHtml": ""
+}

@@ -1,0 +1,7 @@
+{
+  "from": "PayPal <secure@paypaI.com>",
+  "replyTo": "support@evil.com",
+  "subject": "URGENT: verify your account immediately",
+  "bodyText": "Click now: http://bit.ly/xyz and also http://1.2.3.4/login",
+  "bodyHtml": "<p>Limited time offer</p>"
+}
