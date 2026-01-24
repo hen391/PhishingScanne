@@ -45,22 +45,8 @@ addOn/
 cd backend
 mvn spring-boot:run
 ```
----
-
-## ⚙️ Requirements
-
-- Java 17
-- Maven 3.x
-- Windows (for demo script) / curl for manual tests
 
 ---
-
-## 🚀 Running the Backend
-
-```bash
-cd backend
-mvn spring-boot:run
-```
 
 ## Health Check
 
